@@ -2,9 +2,9 @@
 
 Dec. 01, 2021
 
-Bem vindo ao curso Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos, o curso mais completo e bem avaliado da categoria.
+Bem vindo ao curso Desenvolvimento Web Completo 2021 - O curso mais completo e bem avaliado da categoria.
 
-O curso conta com mais de 570 aulas, ao todo são mais de 110 horas de videoaulas em que são abordadas as principais tecnologias web do momento.
+O curso conta com mais de 600 aulas, ao todo são mais de 110 horas de videoaulas em que são abordadas as principais tecnologias web do momento.
 
 Para iniciar o treinamento não é necessário nenhum conhecimento prévio na área, o aluno partirá do zero e ao final do treinamento alcançará um nível profissional. Além disso o aluno conta com um suporte campeão para tirar suas dúvidas.
 
