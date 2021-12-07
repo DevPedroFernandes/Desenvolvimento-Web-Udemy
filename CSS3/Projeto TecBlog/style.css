@@ -34,3 +34,36 @@ a:hover {
 	color: #f7b600;
 	background: #FFF
 }
+h1{
+
+    color: #4e4e4e;
+    font-size: 2.5em;
+
+}
+
+#conteudo-principal{
+    width: 920px;
+    background-color: #fff;
+    margin: 0 auto;
+}
+#conteudo{
+    float: left;
+    width: 660px;
+    background-color: red;
+}
+
+#postagem{
+    padding: 20px;
+}
+#conteudo-lateral
+{   float: right;
+    width: 240px;
+    background-color: aqua;
+
+}
+#rodape{
+    clear: both;
+    width: 920;
+    background-color: black;
+    margin-bottom: -45px;
+}
